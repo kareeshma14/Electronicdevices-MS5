@@ -8,5 +8,4 @@ public class ElectronicDeviceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ElectronicDeviceApplication.class, args);
-	}
-}
+	}}
