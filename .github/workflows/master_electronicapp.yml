@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'ElectronicApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B92ED42E5E424CDBBFD0FE5A78CF2D76 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_34F6DEC97FB2400AA6158C00D231D42A }}
           package: '*.jar'
